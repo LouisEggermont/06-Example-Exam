@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosConectionString": "AccountEndpoint=https://exampleexamegg.documents.azure.com:443/;AccountKey=hUPVAz5sUeEz7HYDWynW3JvhkHi8LwmE7njo6LpvP5NXthawEbq0IiQg8MgrdSACij7X6o8xoPKvACDb5F7K9g==;",
+    "BlobConnectionString": "DefaultEndpointsProtocol=https;AccountName=examplexam;AccountKey=2MngQA0SV6omLAgBDU+2qCEsBEWw+p7Zy53Kmr1KAc92LEJOboOn6IIEVOqia8QoG6aEcr0pQDnp+ASthW+21g==;EndpointSuffix=core.windows.net"
+  }
+}
